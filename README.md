@@ -7,6 +7,9 @@ Wilmer Leon
 ### Contact
 [https://www.linkedin.com/in/wilmer-leon/](https://www.linkedin.com/in/wilmer-leon/)
 
+### Blog
+[https://medium.com/@wjleon](https://medium.com/@wjleon)
+
 ## Description
 
 This script implements a Bloom filter data structure for efficient set membership testing. 
